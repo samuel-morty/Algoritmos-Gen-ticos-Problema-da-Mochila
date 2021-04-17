@@ -1,1 +1,1 @@
-# Algoritmos-Gen-ticos-Problema-da-Mochila
+# Algoritmos-Geneticos-Problema-da-Mochila
